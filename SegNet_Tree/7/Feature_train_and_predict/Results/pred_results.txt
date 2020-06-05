@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+           1       0.86      1.00      0.92        59
+           2       1.00      0.76      0.87        17
+           4       1.00      1.00      1.00        41
+           7       0.93      0.93      0.93        15
+           8       1.00      0.94      0.97        35
+          10       1.00      0.93      0.97        15
+          11       1.00      0.94      0.97        50
+
+    accuracy                           0.95       232
+   macro avg       0.97      0.93      0.95       232
+weighted avg       0.96      0.95      0.95       232
+end the timer  MMMMMMMMMMMMMMMMMM
+total testing time =22.544936418533325 sec

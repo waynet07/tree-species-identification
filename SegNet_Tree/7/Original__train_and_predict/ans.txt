@@ -1,0 +1,28 @@
+end the timer  MMMMMMMMMMMMMMMMMM
+total train time =681.3102760314941sec
+
+[[58  0  0  0  0  0  0]
+ [ 0 16  0  0  0  0  0]
+ [ 0  0 33  0  0  0  0]
+ [ 9  0  0  3  0  0  0]
+ [ 0  0  0  0 46  0  0]
+ [ 0  0  0  0  0 16  0]
+ [ 1  0  0  0  0  0 48]]
+              precision    recall  f1-score   support
+
+           1       0.85      1.00      0.92        58
+           2       1.00      1.00      1.00        16
+           4       1.00      1.00      1.00        33
+           7       1.00      0.25      0.40        12
+           8       1.00      1.00      1.00        46
+          10       1.00      1.00      1.00        16
+          11       1.00      0.98      0.99        49
+
+    accuracy                           0.96       230
+   macro avg       0.98      0.89      0.90       230
+weighted avg       0.96      0.96      0.95       230
+
+suc_count,all_coun,= 220 / 230
+percentage= 0.9565217391304348
+end the timer  MMMMMMMMMMMMMMMMMM
+total train time =25.748146295547485 sec
